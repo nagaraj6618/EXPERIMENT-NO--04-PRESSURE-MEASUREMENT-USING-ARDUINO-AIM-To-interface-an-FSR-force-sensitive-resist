@@ -157,8 +157,8 @@ N is the total number of values
 For those unfamiliar with summation notation, the equation above may seem daunting, but when addressed through its individual components, this summation is not particularly complicated. The i=1 in the summation indicates the starting index, i.e. for the data set 1, 3, 4, 7, 8, i=1 would be 1, i=2 would be 3, and so on. Hence the summation notation simply means to perform the operation of (xi - μ)2 on each value through N, which in this case is 5 since there are 5 values in this data set.
 
 EX:           μ = (0.99+2.02+2.99+4+4.95+5.97+7.09+7.94+9.01+10) / 10 = 5.818     
-σ = √[(1 - 4.6)2 + (3 - 4.6)2 + ... + (8 - 4.6)2)]/5
-σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577
+σ = √[(1.05-6.2)2 + (2.02-6.2)2 + ... + (10-6.2)2)]/10 
+σ = √(26.5225+17.4724+9.6721+....+14.44)/10 = 0.56
 
 
 
