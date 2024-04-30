@@ -1,4 +1,4 @@
-# EXPERIMENT-NO--03-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
+# EXPERIMENT-NO--03-PRESSURE-MEASUREMENT-USING-ARDUINO-
 
 
 ## AIM: 
@@ -174,4 +174,6 @@ EX:           μ = (0.99+2.02+2.99+4+4.95+5.97+7.09+7.94+9.01+10) / 10 = 5.818
 
 
 
-### RESULTS : Arduino uno is interfaced with FSR and output values are indicated on a graph.
+### RESULTS : 
+
+Arduino uno is interfaced with FSR and output values are indicated on a graph.
